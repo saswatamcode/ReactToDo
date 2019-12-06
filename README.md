@@ -10,6 +10,9 @@
 # ReactToDo
 This is a simple to do list web app built using React.js using functional and stateless components.
 
+## Screenshots
+![Screenshot 1](screenshots/Screenshot-1.png) ![Screenshot 2](screenshots/Screenshot-2.png)
+
 ## Description
 Simple run the web app and type in your tasks.
 Click on each task to delete.
